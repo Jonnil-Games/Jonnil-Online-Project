@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_text_input",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_text_input",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

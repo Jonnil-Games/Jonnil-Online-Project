@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_walls",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_walls",
+  "parent":{
+    "name":"Utility",
+    "path":"folders/Utility.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
